@@ -1,0 +1,13 @@
+# Core numerical environment recorded by the EqDiss experiments.
+numpy==1.26.4
+scipy==1.13.1
+
+# Headless figure generation used by post-processing.
+matplotlib==3.11.1
+
+# SDP oracle stack. CVXPY 1.6.7 is intentionally selected because it supports
+# NumPy 1.26.x, preserving the numerical environment recorded by the paper.
+cvxpy==1.6.7
+clarabel==0.11.1
+scs==3.2.11
+osqp==1.1.3
