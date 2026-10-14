@@ -1,4 +1,4 @@
-# Ecnn diff
+# Ecnn diff 
 
 #### Article:   <small><strong>Equivariant dissipative generators for differential systems</strong>  <a href=""><img src="https://cdn.simpleicons.org/doi/2dd4bf" alt="DOI" height="14" align="absmiddle"></a>  <a href=""><img src="https://cdn.simpleicons.org/zenodo/2dd4bf" alt="Zenodo" height="14" align="absmiddle"></a>  <a href="https://drive.google.com/drive/folders/1DPsSIUbaE4k2ttw2Wi_G0KwfF2cu6Tqm?usp=sharing"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Drive" height="14" align="absmiddle"></a></small>
 
