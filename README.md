@@ -22,7 +22,6 @@ Experiments on periodic reaction–diffusion systems evaluate the correction of 
 
 ```bash
 conda env create -f docker/environment.yml
-conda activate ediss
 ```
 
 ## License (MIT)
